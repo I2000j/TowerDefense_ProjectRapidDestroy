@@ -1,0 +1,9 @@
+/quit - close game
+/back - back to game
+/cheatOff - turn off cheats
+/clearResourses - delete all resourses
+/reloadTextures - update textures
+/returnToBaze - returns to baze all dat files
+/help - help
+
+Закройте файл для продолжения.
