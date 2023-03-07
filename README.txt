@@ -20,6 +20,7 @@ Project Rapid Destroy - это игра в жанре Tower Defence.
 Требуется установить:
 pip install pygame
 
+Спасибо за установку
 -------------------------------------------------------------------------------------
 
 Project Rapid Destroy is a tower defense game.
